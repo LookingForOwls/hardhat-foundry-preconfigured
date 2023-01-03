@@ -1,6 +1,5 @@
 # [Solidity Template](#solidity-template)
 
-test
 <!-- If you want badge for Github Actions & NPM version, uncomment these! -->
 <!-- [![Unit Tests](https://github.com/mattstam/solidity-template/actions/workflows/unit-test.yaml/badge.svg)](https://github.com/mattstam/solidity-template/actions/workflows/unit-test.yaml)
 [![Integration Tests](https://github.com/mattstam/solidity-template/actions/workflows/integration-test.yaml/badge.svg)](https://github.com/mattstam/solidity-template/actions/workflows/integration-test.yaml)
