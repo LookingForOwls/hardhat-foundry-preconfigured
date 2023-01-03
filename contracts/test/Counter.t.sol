@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.8.17;
 
-import {Test} from "./utils/Test.sol";
-import {Counter} from "../Counter.sol";
+import { Test } from "./utils/Test.sol";
+import { Counter } from "../Counter.sol";
 
 contract CounterTest is Test {
     Counter counter;

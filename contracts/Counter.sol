@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.8.17;
 
-import {ICounter} from "./interfaces/ICounter.sol";
+import { ICounter } from "./interfaces/ICounter.sol";
 
 /// @title  Counter
 /// @author Solidity Template Authors

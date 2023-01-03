@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.8.17;
 
-import {DSTest} from "@float-capital/ds-test/src/test.sol";
-import {Vm} from "./Vm.sol";
+import { DSTest } from "@float-capital/ds-test/src/test.sol";
+import { Vm } from "./Vm.sol";
 
 /// @title  Test
 /// @notice Wrapping the DSTest framework for extending the functionality.
