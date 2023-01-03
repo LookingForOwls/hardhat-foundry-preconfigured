@@ -1,3 +1,4 @@
 "*.{json,md,sol,yml}":
   - npx prettier --write
-  - eslint --no-error-on-unmatched-pattern
+"*.{ts,tsx}":
+  - eslint --no-error-on-unmatched-pattern --fix
