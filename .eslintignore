@@ -18,3 +18,5 @@
 *.log
 *.sqrl
 coverage.json
+package-lock.json
+package.json
